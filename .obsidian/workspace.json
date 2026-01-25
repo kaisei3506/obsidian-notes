@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3回生後期期末試験/Test.md",
+                "file": "3回生後期期末試験/耐震・耐風・設計論.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "耐震・耐風・設計論"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8164c4b806fbfeb6",
@@ -164,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,16 +183,16 @@
   },
   "active": "4932bf873c808f2d",
   "lastOpenFiles": [
+    "2025-08-04.md",
+    "Untitled.base",
+    "Untitled 1.base",
     "3回生後期期末試験/耐震・耐風・設計論.md",
     "3回生後期期末試験/Test.md",
-    "Untitled 1.base",
     "統計検定1級/確率分布.md",
     "統計検定1級/確率分布/離散確率分布/ベータ分布.md",
     "Untitled.md",
     "3回生後期期末試験",
     "Welcome.md",
-    "2025-08-04.md",
-    "Untitled.base",
     "統計検定1級/確率分布/連続確率分布",
     "統計検定1級/確率分布/離散確率分布",
     "統計検定1級/確率分布/Untitled.md",
