@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "上水道工学"
             }
+          },
+          {
+            "id": "a00c592811a9900f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3回生後期期末試験/上水道工学.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "上水道工学"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4932bf873c808f2d",
+  "active": "a00c592811a9900f",
   "lastOpenFiles": [
-    "3回生後期期末試験/耐震・耐風・設計論.md",
+    "conflict-files-obsidian-git.md",
     "3回生後期期末試験/上水道工学.md",
+    "3回生後期期末試験/パターン認識と機械学習.md",
+    "3回生後期期末試験/耐震・耐風・設計論.md",
     "2025-08-04.md",
     "Untitled.base",
     "Untitled 1.base",
