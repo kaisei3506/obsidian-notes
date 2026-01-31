@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8164c4b806fbfeb6",
@@ -174,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +189,12 @@
       "command-palette:Open command palette": false,
       "terminal:Open terminal": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "71b773a13f00d2fd",
+  "active": "4932bf873c808f2d",
   "lastOpenFiles": [
     "copilot/copilot-conversations/テスト@20260201_001207.md",
     "copilot/copilot-conversations",
