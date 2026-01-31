@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8164c4b806fbfeb6",
@@ -159,14 +158,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "71b773a13f00d2fd",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,11 +186,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "terminal:Open terminal": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4932bf873c808f2d",
+  "active": "71b773a13f00d2fd",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/テスト@20260201_001207.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Untitled 2.base",
     "Untitled 3.base",
     "3回生後期期末試験/上水道工学.md",
@@ -199,16 +227,8 @@
     "統計検定1級/確率分布/離散確率分布/ベータ分布.md",
     "Untitled.md",
     "3回生後期期末試験",
-    "Welcome.md",
     "統計検定1級/確率分布/連続確率分布",
     "統計検定1級/確率分布/離散確率分布",
-    "統計検定1級/確率分布/Untitled.md",
-    "統計検定1級/確率分布",
-    "2025-07-09.md",
-    "2025-07-05.md",
-    "統計検定1級.md",
-    "統計検定1級",
-    "Untitled.canvas",
-    "2025年7月5日.md"
+    "Untitled.canvas"
   ]
 }
